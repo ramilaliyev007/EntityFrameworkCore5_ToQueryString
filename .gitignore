@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EFCore5ExamplesToQueryString/bin/Debug/net5.0
+/EFCore5ExamplesToQueryString/obj
+/.vs/EFCore5ExamplesToQueryString/v16

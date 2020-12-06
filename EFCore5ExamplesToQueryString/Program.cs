@@ -41,6 +41,7 @@ namespace EFCore5ExamplesToQueryString
             var students = studentsQuery.ToList();
 
             var studentsQueryString = dbContext.Students.Where(x => x.Name.Contains("i")).ToQueryString();
-        
+
+        }
     }
 }
